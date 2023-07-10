@@ -5,6 +5,7 @@ class Main {
     Main stepA = new Main();
     stepA.a01();
   }
+  
   void a01() {
     Scanner s = new Scanner(System.in);
     System.out.print("Enter a birth year > ");

@@ -29,5 +29,6 @@ class Main {
       result = num1/num2;
     }
     System.out.print("Result is "+result);
+    s.close();
   }
 }

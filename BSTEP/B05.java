@@ -15,5 +15,6 @@ class Main {
     if(seconds>=1000000){
       System.out.print("It includes million seconds "+m_count+" times");
     }
+    s.close();
   }
 }

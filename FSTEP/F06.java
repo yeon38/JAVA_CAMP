@@ -10,7 +10,7 @@ class Main {
 
     void f06(){
       Scanner s = new Scanner(System.in);
-      int number[][] = new int[5][3];
+      //int number[][] = new int[5][3];
       int total = 0;
       for(int i=1;i<=5;i++){
         for(int j=1;j<=3;j++){
@@ -20,5 +20,6 @@ class Main {
         }
       }
       System.out.print("Number of people living in this apartment is "+total);
+      s.close();
 	}
 }

@@ -38,6 +38,6 @@ class Main {
     System.out.println("Count of small and medium-sized apartment is "+count2);
     System.out.println("Count of medium-sized apartment is "+count3);
     System.out.println("Count of big-sized apartment is "+count4);
-    
+    s.close();
   }
 }

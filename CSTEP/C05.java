@@ -43,6 +43,6 @@ class Main {
     }
     
     System.out.print("This date is " +day_count+ "th of the year");
-    
+    s.close();
   }
 }

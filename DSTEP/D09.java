@@ -23,6 +23,6 @@ class Main {
         System.out.println("Invalid input");
       }
     }
-    
+    s.close();
   }
 }

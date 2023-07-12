@@ -23,5 +23,6 @@ class Main {
       }  
     }
     System.out.printf("Max number is %d, Min number is %d",max_num,min_num);
+    s.close();
   }
 }

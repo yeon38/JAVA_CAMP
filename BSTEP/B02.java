@@ -21,6 +21,6 @@ class Main {
       System.out.print("Celsius temperature is "+output_degree);
       
     }
-    
+    s.close();
   }
 }

@@ -21,5 +21,6 @@ class Main {
       }
       System.out.print("\n");
     }
+    sc.close();
   }
 }

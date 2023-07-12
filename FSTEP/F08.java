@@ -34,5 +34,6 @@ class Main {
     for(int i=0; i<10; i++) {
       System.out.printf("%dth number is %d\n", i+1, number[i]);
     }
+    s.close();
    }
 }

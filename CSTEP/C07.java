@@ -31,6 +31,6 @@ class Main {
       double time =(double)bytes/60000000.0;
       System.out.printf("File transfer time is %.1f",time);
     }
-    
+    s.close();
   }
 }

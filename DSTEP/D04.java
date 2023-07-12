@@ -19,5 +19,6 @@ class Main {
       if(age<20) count_young+=1;
     }
     System.out.printf("There are %d youngs in the family.",count_young);
+    s.close();
   }
 }

@@ -18,6 +18,6 @@ class Main {
       }
       System.out.print("\n");
     }
-
+    s.close();
   }
 }

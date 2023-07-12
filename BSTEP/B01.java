@@ -16,6 +16,7 @@ class Main {
     else{
       System.out.print("You are adult");
     }
+    s.close();
   }
 }
 

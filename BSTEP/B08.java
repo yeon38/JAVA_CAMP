@@ -25,6 +25,6 @@ class Main {
     if(num1%num2==0 ||num2%num3==0 ||num3%num2==0||num2%num1==0 || num3%num1==1||num1%num3==0){
       System.out.println("Satisfies the fourth condition");
     }
-    
+    s.close();
   }
 }

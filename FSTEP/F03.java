@@ -13,7 +13,7 @@ class Main {
       int jumsu[][] = new int[5][3];
       int sum[] = new int[3];
       double average[] = new double[3]; 
-      int kor, eng, mat;
+      //int kor, eng, mat;
       int i, j; 
       for(i=0; i<5; i++){
         System.out.printf("Enter Korean, English, Math score of %dth student > ", i+1);

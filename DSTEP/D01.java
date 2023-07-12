@@ -22,6 +22,6 @@ class Main {
       }
     }
     System.out.print("The sum of all integer from 1 to the number entered is "+totalsum);
-    
+    s.close();
   }
 }

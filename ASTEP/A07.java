@@ -16,7 +16,6 @@ class Main {
     System.out.println(megabytes+" MB");
     System.out.println(kilobytes+" KB");
     System.out.println(bytes+" B");
-    
-    
+    s.close();
   }
 }

@@ -42,5 +42,6 @@ class Main {
     System.out.println("Count of an oblong rectangle from top to bottom is "+count3);
     System.out.println("Count of a horizontal rectangle is "+count4);
     System.out.println("Count of a vertical rectangle is "+count5);
+    s.close();
   }
 }

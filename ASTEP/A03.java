@@ -13,5 +13,6 @@ class Main {
     int height = s.nextInt();
     int area = width*height;
   	System.out.println("Area of Rectangle is "+area);
+    s.close();
   }
 }

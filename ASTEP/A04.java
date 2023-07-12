@@ -11,5 +11,6 @@ class Main {
     double m2_area = s.nextDouble();
     double pyung_area = m2_area/3.305;
   	System.out.printf("Area of Apartment(평수) %.1f\n",pyung_area);
+    s.close();
   }
 }

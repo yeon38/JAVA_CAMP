@@ -26,5 +26,6 @@ class Main {
     if(math>=90){
       System.out.println("Math grade is outstanding!");
     }
+    s.close();
   }
 }

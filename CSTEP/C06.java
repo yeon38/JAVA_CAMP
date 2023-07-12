@@ -34,5 +34,6 @@ class Main {
     else{
       System.out.print("Your grade is F");
     }
+    s.close();
   }
 }

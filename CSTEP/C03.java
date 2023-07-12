@@ -28,5 +28,6 @@ class Main {
     else{
       System.out.print("It is a horizontal rectangle.");
     }
+    s.close();
   }
 }

@@ -32,5 +32,6 @@ class Main {
       total -= (max + min);
       avg = total/8;
       System.out.printf("Average is %.1f", avg);
+      s.close();
 	}
 }

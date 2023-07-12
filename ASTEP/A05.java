@@ -11,5 +11,6 @@ class Main {
     int days = s.nextInt();
     int seconds = days*24*60*60;
     System.out.println("Total seconds is "+seconds);
+    s.close();
   }
 }

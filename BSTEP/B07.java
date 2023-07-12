@@ -20,6 +20,6 @@ class Main {
       int time = (int)bytes/60000000;
       System.out.print("File transfer time is "+time);
     }
-     
+    s.close();
   }
 }

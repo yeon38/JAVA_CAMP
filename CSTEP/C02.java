@@ -26,5 +26,6 @@ class Main {
     else{
       System.out.print("It's boiling water");
     }
+    s.close();
   }
 }

@@ -10,7 +10,7 @@ class Main {
 
     void f07() {
       Scanner s = new Scanner(System.in);
-      int number[][] = new int[5][3];
+      //int number[][] = new int[5][3];
       int total = 0;
       int floor_total[] = new int[5];
       int line_total[] = new int[3]; 
@@ -40,5 +40,6 @@ class Main {
       }
       System.out.print("\n");
       System.out.print("Number of people living in this apartment is "+total);
+      s.close();
 	}
 }

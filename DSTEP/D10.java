@@ -22,5 +22,6 @@ class Main {
           
       }
     }
+    scanner.close();
   }
 }

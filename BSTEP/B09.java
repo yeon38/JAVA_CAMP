@@ -18,5 +18,6 @@ class Main {
     else{
       System.out.print("You are not obesity");
     }
+    s.close();
   }
 }

@@ -24,5 +24,6 @@ class Main {
     }
     average = (double)totalsum/(double)count;
     System.out.printf("The sum of %d numbers is %d, average is %.1f",count,totalsum,average);
+    s.close();
   }
 }

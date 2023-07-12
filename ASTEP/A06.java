@@ -17,5 +17,6 @@ class Main {
     double average = total*1.0/3;
     System.out.println("Total point is "+total);
     System.out.printf("The average  is %.1f\n",average);
+    s.close();
   }
 }

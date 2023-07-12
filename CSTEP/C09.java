@@ -25,6 +25,7 @@ class Main {
       tax = income/100*37; 
     }
   System.out.print("Income tax on salary is " +tax);
+  s.close();
   }
 }
 

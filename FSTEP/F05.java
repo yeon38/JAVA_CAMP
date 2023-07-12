@@ -28,5 +28,6 @@ class Main {
       }
     }
     System.out.printf("%d people is obesity", count);
+    s.close();
    }
 }

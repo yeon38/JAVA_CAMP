@@ -25,5 +25,6 @@ class Main {
     else{
       System.out.print("It is big-sized apartment");
     }
+    s.close();
   }
 }

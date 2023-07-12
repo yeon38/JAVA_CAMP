@@ -30,6 +30,6 @@ class Main {
     else{
       System.out.print("You are old age");
     }
-
+    s.close();
   }
 }

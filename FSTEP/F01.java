@@ -13,7 +13,7 @@ class Main {
       int first; // 첫 번째로 큰 수
       int second; // 두 번째로 큰 수
       int second_max_index = 0; // 두 번째로 큰 수의 인덱스
-      int newnum; // 숫자 입력을 위한 변수
+      //int newnum; // 숫자 입력을 위한 변수
       int i;
       for(i=0; i<10; i++){
         System.out.printf("Enter %dth number > ", i+1);
@@ -31,5 +31,8 @@ class Main {
         }
       }
       System.out.printf("Second largest number is %dth number %d", second_max_index, second);
+      
+      s.close();
 	  }
+      
 }

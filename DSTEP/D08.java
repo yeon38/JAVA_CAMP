@@ -27,5 +27,6 @@ class Main {
         System.out.printf("coordinates (%d, %d)\n",i,y);
       }
     }
+    s.close();
   }
 }

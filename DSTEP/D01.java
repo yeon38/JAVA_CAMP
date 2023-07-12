@@ -8,7 +8,7 @@ class Main {
     stepD.d01();
   }
   void d01(){
-   Scanner s = new Scanner(System.in);
+    Scanner s = new Scanner(System.in);
     System.out.print("Enter a number > ");
     int number = s.nextInt();
     int i=0;

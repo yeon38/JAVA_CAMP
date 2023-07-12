@@ -15,7 +15,7 @@ class Main {
     System.out.print("Enter the start and end values of x coordinates > ");
     int x_begin = s.nextInt();
     int x_end = s.nextInt();
-    int x=0;
+    //int x=0;
     int y=0;
     for(int i=x_begin;i<=x_end;i++){
       y= (a*i) + b;

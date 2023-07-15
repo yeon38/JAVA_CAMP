@@ -11,7 +11,7 @@ class Main {
     Scanner s = new Scanner(System.in);
     System.out.print("Enter a birth year > ");
     int birth_year = s.nextInt();
-    int age = 2022-birth_year+1;
+    int age = 2023-birth_year+1;
     if(age<7){
       System.out.print("You are baby");
     }

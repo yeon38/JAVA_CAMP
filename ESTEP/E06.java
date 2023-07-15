@@ -17,6 +17,7 @@ class Main {
         System.out.printf("%3d ",j*i);
       }
       System.out.print("\n");
+      System.out.print(" ");
     }
     s.close();
   }

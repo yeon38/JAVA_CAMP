@@ -22,7 +22,7 @@ class Main {
       System.out.printf("Enter a birth year of %dth person > ", i+1);
       int birth_year = s.nextInt();
       if(birth_year>2021) break;
-      age[i] = 2021 - birth_year + 1;
+      age[i] = 2023 - birth_year + 1;
       if(age[i] >= 60)
          count_old++;
       else if(age[i] >= 30)
